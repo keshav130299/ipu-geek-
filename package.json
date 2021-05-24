@@ -1,5 +1,5 @@
 {
-  "name": "ipu geek",
+  "name": "ipu-geek",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +16,8 @@
     "react-scripts": "3.4.3",
     "redux": "^4.0.5",
     "semantic-ui-css": "^2.4.1",
-    "semantic-ui-react": "^1.2.1"
+    "semantic-ui-react": "^1.2.1",
+     "node" : "14.16.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -40,3 +41,4 @@
     ]
   }
 }
+
