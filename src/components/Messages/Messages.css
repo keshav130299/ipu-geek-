@@ -1,0 +1,9 @@
+.messagecontent{
+    height: 500px;
+    overflow-y: scroll;
+    color :darkgray
+}
+
+.messages{
+    padding-top : 10px;
+}

@@ -1,0 +1,14 @@
+.ui.menu .item{
+    color : rgb(7, 22, 231) !important;
+   
+}
+
+.clickable:hover{
+    cursor: pointer;
+}
+
+.ui.menu .item.active{
+    background : #33a311 !important;
+    color :azure !important ;
+    font-weight: bold;
+}
